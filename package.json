@@ -2,7 +2,7 @@
   "name": "circle-progress-stats",
   "version": "0.0.0",
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist/circle-progress-stats",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
