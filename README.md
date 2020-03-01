@@ -12,4 +12,4 @@ Estatísticas com progresso em gráfico circular e incremento nos contadores, os
 
 ### Screenshot
 
-![](https://github.com/titenq/circle-progress-stats/blob/master/src/screenshot.png?raw=true)
+![](https://github.com/titenq/circle-progress-stats/blob/master/screenshot.png?raw=true)
